@@ -1,4 +1,4 @@
-![I love to learn!](https://i.ibb.co/R4VnGFG/Blue-Geometric-Technology-Linked-In-Banner-1.png)
+![I love to learn!](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/267999446_1851645168361289_2678758213340010808_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeF77rq5O0XvD7_5s1quXRXZyCpav7fgrTbIKlq_t-CtNpUq4Xk_nxHV7bzxc4fuMix1HDaBm1aYFdqrZl2lwA5r&_nc_ohc=3ora1Q5iey8AX_zt-k3&_nc_ht=scontent.fdac8-1.fna&oh=00_AfBiq6CUhH0jcge2u9d7Rmc2uEwSDH3NR7GFJEgh1iETOQ&oe=6483E279)
 
 ### Hi there 👋, I'm ASHIK
 #### I love to learn!
