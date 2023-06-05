@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">A passionate programmer & I love to learn!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-ahammad" /> </p>
-
 - 🔭 I’m currently working with **C++**
 
 - 🌱 I’m currently learning **DSA**
@@ -12,6 +10,8 @@
 - 🤝 I’m looking for help with **Application Development**
 
 - 📫 How to reach me **ashik19ahammad@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-ahammad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
