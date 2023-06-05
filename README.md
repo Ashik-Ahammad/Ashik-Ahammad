@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashik</h1>
+<h1 align="center">Hi 👋, I'm Ashik Ahammad</h1>
 <h3 align="center">A passionate programmer & I love to learn!</h3>
 
 - 🔭 I’m currently working with **C++**
