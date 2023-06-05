@@ -55,7 +55,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-ahammad&" alt="ashik-ahammad" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik-ahammad" alt="ashik-ahammad" /></a> </p>
+
 ![GitHub metrics](https://metrics.lecoq.io/Ashik-Ahammad)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik-ahammad" alt="ashik-ahammad" /></a> </p>
+
 
