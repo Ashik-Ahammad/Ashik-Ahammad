@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **C++**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently working with **DSA**
 
 - 👯 I’m looking to collaborate on **Github**
 
