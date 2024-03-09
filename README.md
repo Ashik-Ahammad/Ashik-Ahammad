@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, <span> I'm Ashik Ahammad </span> </h1>
-<h3 align="center">A passionate programmer & I'm ravenous to learn!</h3>
-
-- 🔭 I’m currently working with **C++**
+<h3 align="center">Passionate</h3>
 
 - 👯 I’m looking to collaborate on **Github**
-
-- 🤝 I’m looking for help with **Application Development**
 
 - 📫 How to reach me **ashik19ahammad@gmail.com**
 
