@@ -1,4 +1,5 @@
-<h1 align="center">Assalamualaikum; Hi 👋, <span> I'm Ashik Ahammad </span> </h1>
+<h2 align="center"> Assalamualaikum! </span> </h2>
+<h1 align="center"> Hi 👋, <span> I'm Ashik Ahammad </span> </h1>
 <h3 align="center">Passionate</h3>
 
 - 👯 I’m looking to collaborate on **Github**
