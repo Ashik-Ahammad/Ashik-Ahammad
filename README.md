@@ -1,5 +1,5 @@
 <h2 align="center"> Assalamualaikum! </span> </h2>
-<h1 align="center"> Hi 👋, <span> I'm Ashik Ahammad </span> </h1>
+<h1 align="center">👋, <span> I'm Ashik Ahammad </span> </h1>
 <h3 align="center">Passionate</h3>
 
 - 👯 I’m looking to collaborate on **Github**
@@ -14,7 +14,6 @@
 <p align="left">
  <a href="https://linkedin.com/in/ashik-ahammad-6a13a5216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashik-ahammad-6a13a5216" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashik-9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashik-9" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/ashik_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ashik_19" height="30" width="40" /></a>
 <a href="https://fb.com/ashik.ahammad.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashik.ahammad.19" height="30" width="40" /></a>
 <a href="https://instagram.com/boogeyman__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boogeyman__19" height="30" width="40" /></a>
 <a href="https://twitter.com/ashikahammad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashikahammad7" height="30" width="40" /></a>
