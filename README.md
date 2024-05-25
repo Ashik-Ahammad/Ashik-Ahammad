@@ -1,5 +1,5 @@
 <h2 align="center"> Assalamualaikum! <span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></span> </h2> 
-
+Earth.gif
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ashik+Ahammad...;Nice+to+meet+you!&center=true&size=30">
