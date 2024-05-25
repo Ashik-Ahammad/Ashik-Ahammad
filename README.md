@@ -8,12 +8,6 @@
 
 <h3 align="center">Passionate</h3>
 
-<p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
-</p>
-
-
-
 
 - 👯 I’m looking to collaborate on **Github**
 
