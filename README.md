@@ -47,7 +47,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik-ahammad" alt="ashik-ahammad" /></a> </p>
 
 
-<h3 align="center"><b><a target="_blank" href="https://ashik-ahammad.github.io/ashik-ahammad-portfolio/">See my portfolio!</a></b> </h3>
+<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/ashik-ahammad-portfolio/">See my portfolio!</a> </h3>
 
 
 
