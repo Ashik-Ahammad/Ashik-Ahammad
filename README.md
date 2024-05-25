@@ -6,10 +6,6 @@
   </a>
 </h1>
 
-<h3 align="center"><b><a target="_blank" href="https://ashik-ahammad.github.io/ashik-ahammad-portfolio/">Ashik Ahammad</a></b></h3>
-
-
-
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -49,6 +45,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-ahammad&" alt="ashik-ahammad" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik-ahammad" alt="ashik-ahammad" /></a> </p>
+
+
+<h3 align="center"><b><a target="_blank" href="https://ashik-ahammad.github.io/ashik-ahammad-portfolio/">Ashik Ahammad</a></b> </h3>
 
 
 
