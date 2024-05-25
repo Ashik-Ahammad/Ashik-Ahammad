@@ -8,6 +8,8 @@
 
 <h3 align="center">Passionate</h3>
 
+<b><a target="_blank" href="https://ashik-ahammad.github.io/ashik-ahammad-portfolio/">Ashik Ahammad</a></b>
+
 
 - 👯 I’m looking to collaborate on **Github**
 
