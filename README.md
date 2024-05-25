@@ -1,5 +1,9 @@
 <h2 align="center"> Assalamualaikum! </span> </h2>
 
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+
 <h3 align="center">Passionate</h3>
 
 - 👯 I’m looking to collaborate on **Github**
