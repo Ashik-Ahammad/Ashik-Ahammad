@@ -1,4 +1,4 @@
-<h2 align="center"> ٱلسَّلَامُ عَلَيْكُمْ! <span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></span> </h2> 
+<h2 align="center"> <span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></span>  ٱلسَّلَامُ عَلَيْكُمْ! </h2> 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
