@@ -7,7 +7,7 @@
 </h1>
 
 
-- 👯 I’m trying to collaborate on **Github**
+- 👯 I’m trying to contribute on **Github**
 
 - 📫 How to reach me **ashik19ahammad@gmail.com**
 
