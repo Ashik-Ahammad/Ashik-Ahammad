@@ -10,9 +10,11 @@
 - 👯 I’m trying to contribute on **Github**
 
 - 📫 How to reach me **ashik19ahammad@gmail.com**
-- 
 
-<a href="https://www.buymeacoffee.com/ashikahammad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashikahammad" /></a>
+
+<div>
+  <a href="https://www.buymeacoffee.com/ashikahammad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashikahammad" /></a>
+</div>
 
 </br>
 
