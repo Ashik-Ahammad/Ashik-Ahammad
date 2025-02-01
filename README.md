@@ -9,8 +9,7 @@
 
 - 👯 I’m trying to contribute on **Github**
 
-- 📫 How to reach me **ashik19ahammad@gmail.com**
-- [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
+- 📫 How to reach me  [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
 
 
 <div>
