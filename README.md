@@ -7,7 +7,7 @@
 </h1>
 
 
-- 👯 I’m trying to contribute on **Github**
+
 
 - 📫 How to reach me  👉   &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
 
