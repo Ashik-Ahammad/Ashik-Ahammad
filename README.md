@@ -12,9 +12,9 @@
 - 📫 How to reach me  👉   &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
 
 
-<div>
-  <a href="https://www.buymeacoffee.com/ashikahammad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashikahammad" /></a>
-</div>
+//<div>
+ // <a href="https://www.buymeacoffee.com/ashikahammad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashikahammad" /></a>
+//</div>
 
 </br>
 
