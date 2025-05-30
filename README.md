@@ -11,8 +11,6 @@
 
 - 📫 How to reach me  👉   &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
 
-
-
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-ahammad" /> </p>
