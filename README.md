@@ -10,7 +10,7 @@
 <p>A <strong>DevOps Enthusiast</strong> <em><strong> and Web Developer</strong></em> 🚀.</p>
 
 <ul>
-<li>👨🏽‍💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I earned my B.Sc. in Computer Science and Engineering.</li>
+<li>💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I earned my B.Sc. in Computer Science and Engineering.</li>
 <li>🌱 My current focus is on exploring DevOps practices and MERN-based web development, alongside strengthening my foundational knowledge in C++ Data Structures and Algorithms.</li>
 </ul>
 
