@@ -21,7 +21,6 @@
 <p align="left">
  <a href="https://linkedin.com/in/ashik-ahammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashik-ahammad-6a13a5216" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashik-9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashik-9" height="30" width="40" /></a>
-<a href="https://fb.com/ashik.ahammad.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashik.ahammad.19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
