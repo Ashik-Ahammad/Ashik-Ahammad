@@ -6,7 +6,9 @@
   </a>
 </h1>
 
-
+  <p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 <p align="center">A <strong>DevOps Enthusiast</strong> and a <em><strong>Web Developer</strong></em>.</p>
 
 <ul>
