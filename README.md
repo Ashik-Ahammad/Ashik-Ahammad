@@ -62,7 +62,7 @@
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tbody><tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ashik-ahammad">
@@ -96,9 +96,9 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
 </div>
-<hr>
 
 <h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
