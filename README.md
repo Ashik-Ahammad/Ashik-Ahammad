@@ -18,9 +18,9 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&label=Profile%20views&color=0e75b6&style=flat" alt="ashik-ahammad" /> </p>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
