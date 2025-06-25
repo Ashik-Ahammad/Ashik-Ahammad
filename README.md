@@ -42,7 +42,7 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2">
+    <td >
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ashik-ahammad">
