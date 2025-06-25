@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://ashik-ahammad.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%F0%9F%91%89%20Click%20Here-f4cccc?style=for-the-badge" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/To%20Visit%20My%20Portfolio-%20Click%20Here-f4cccc?style=for-the-badge" />
   </a>
 </p>
 
