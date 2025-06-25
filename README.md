@@ -85,5 +85,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
 
-
+  <table width="100%"> 
+  <tbody>
+  <tr>
+  <td width="50%">
+  <p>&nbsp; <br> <a href="https://ashik-ahammad.github.io/portfolio/"><img src="https://novatorem.vercel.app/api/spotify" alt="Portfolio"></a></p>
+  </td>
+  </tr></tbody></table>
 
