@@ -9,7 +9,7 @@
   <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
-<p align="center">A <strong>DevOps Enthusiast</strong> and a <em><strong>Web Developer</strong></em>.</p>
+<p align="center">A <i><strong>DevOps Enthusiast</strong></i> and a <em><strong>Web Developer</strong></em>.</p>
 
 <ul>
 <li>💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I earned my B.Sc. in Computer Science and Engineering.</li>
