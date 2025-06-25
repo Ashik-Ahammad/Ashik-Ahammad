@@ -53,10 +53,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik-ahammad&show_icons=true&locale=en&layout=compact" alt="ashik-ahammad" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad\&layout=donut-vertical)](https://github.com/ashik-ahammad/github-readme-stats)
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-```
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&show_icons=true&locale=en" alt="ashik-ahammad" /></p>
 
