@@ -51,7 +51,7 @@
 <!--   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a> -->
 </p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad\&hide_progress=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&amp;theme=tokyonight&amp;layout=compact" alt="Most Used Languages"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&show_icons=true&locale=en" alt="ashik-ahammad" /></p>
 
