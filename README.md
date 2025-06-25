@@ -51,24 +51,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ashik-ahammad">
-          <img align="middle" src="https://streak-stats.demolab.com?user=ashik-ahammad&amp;theme=nightowl" alt="Streak Stats">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ashik-ahammad">
-          <img align="middle" src="https://github-contributor-stats.vercel.app/api?username=ashik-ahammad&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 
