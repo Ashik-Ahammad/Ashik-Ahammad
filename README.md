@@ -58,7 +58,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&amp;theme=tokyonight&amp;layout=compact" alt="Most Used Languages"></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&show_icons=true&locale=en" alt="ashik-ahammad" /></p>
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
@@ -66,7 +65,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ashik-ahammad">
           <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
         </a>
       </p>
@@ -74,7 +73,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ashik-ahammad">
           <img align="middle" src="https://streak-stats.demolab.com?user=ashik-ahammad&amp;theme=nightowl" alt="Streak Stats">
         </a>
       </p>
@@ -84,7 +83,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/ashik-ahammad">
           <img align="middle" src="https://github-contributor-stats.vercel.app/api?username=ashik-ahammad&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
         </a>
       </p>
