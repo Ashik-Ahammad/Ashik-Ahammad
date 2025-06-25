@@ -81,9 +81,15 @@
 
 <!--<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3> -->
 
+<br>
+<br>
+
 <p align="center">
-  <a href="https://ashik-ahammad.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=Visit-my&amp;message=portfolio&amp;color=f4cccc&amp;style=for-the-badge"></a>
+  <a href="https://ashik-ahammad.github.io/portfolio/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My%20Portfolio-%F0%9F%91%89%20Click%20Here-f4cccc?style=for-the-badge" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
