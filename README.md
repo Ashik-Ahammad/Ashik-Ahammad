@@ -60,7 +60,52 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&show_icons=true&locale=en" alt="ashik-ahammad" /></p>
 
-
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tbody><tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="middle" src="https://streak-stats.demolab.com?user=ashik-ahammad&amp;theme=nightowl" alt="Streak Stats">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/cryptos">
+          <img align="middle" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ashik-ahammad&amp;repo=cryptos&amp;theme=nightowl&amp;show_owner=true" alt="Cryptos Project">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="middle" src="https://github-contributor-stats.vercel.app/api?username=ashik-ahammad&amp;limit=3&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=true" alt="Top Repo">
+        </a>
+      </p>
+    </td>
+  </tr>
+</tbody></table>
+<br>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
+</div>
+<hr>
 
 <h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3>
 
