@@ -87,5 +87,5 @@
 
 
 <p align="center">
-  <a href="https://ashik-ahammad.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=Visitmy&amp;message=portfolio&amp;color=f4cccc&amp;style=for-the-badge"></a>
+  <a href="https://ashik-ahammad.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/static/v1?label=Visit my&amp;message=portfolio&amp;color=f4cccc&amp;style=for-the-badge"></a>
 </p>
