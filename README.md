@@ -7,7 +7,7 @@
 </h1>
 
 
-<p>A <strong>DevOps Enthusiast</strong> and a <em><strong>Web Developer</strong></em>.</p>
+<p align="center">A <strong>DevOps Enthusiast</strong> and a <em><strong>Web Developer</strong></em>.</p>
 
 <ul>
 <li>💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I earned my B.Sc. in Computer Science and Engineering.</li>
