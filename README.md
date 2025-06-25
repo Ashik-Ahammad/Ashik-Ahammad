@@ -58,15 +58,15 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&amp;theme=tokyonight&amp;layout=compact" alt="Most Used Languages"></p> -->
 
-
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
 <table width="100%">
-  <tbody><tr>
-    <td width="50%">
+  <tr>
+    <td colspan="2">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ashik-ahammad">
-          <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
+          <img align="middle" width="100%" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
         </a>
       </p>
     </td>
@@ -89,7 +89,9 @@
       </p>
     </td>
   </tr>
-</tbody></table>
+</table>
+
+
 <br>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
