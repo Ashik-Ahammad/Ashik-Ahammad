@@ -40,18 +40,15 @@
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td >
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ashik-ahammad">
-          <img align="middle" width="100%" src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" alt="GitHub Stats">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="width: 100%;">
+  <h3 align="center"><strong>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+  <p align="center">
+    <a href="https://github.com/ashik-ahammad">
+      <img src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&count_private=true&show_icons=true&theme=nightowl" style="width: 100%; max-width: 100%;" alt="GitHub Stats">
+    </a>
+  </p>
+</div>
+
 
 
 <br>
