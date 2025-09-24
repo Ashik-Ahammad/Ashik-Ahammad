@@ -9,11 +9,11 @@
   <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
-<p align="center">A <i><strong>DevOps Enthusiast</strong></i> and a <em><strong>Web Developer</strong></em>.</p>
+<p align="center">A <i><strong>DevOps Enthusiast</strong></i></p>
 
 <ul>
 <li>💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
-<li>🌱 My current focus is on exploring DevOps practices and MERN-based web development, alongside strengthening my foundational knowledge in Data Structures and Algorithms with C++.</li>
+<li>🌱 My current focus is on exploring DevOps practices, alongside strengthening my foundational knowledge in Data Structures and Algorithms with C++.</li>
 </ul>
 
 - 📩 How to reach me ⌯⌲ &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
