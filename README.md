@@ -13,7 +13,6 @@
 
 <ul>
 <li>💻 I am a recent graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
-<li>🌱 My current focus is on exploring DevOps practices, alongside strengthening my foundational knowledge in Data Structures and Algorithms with C++.</li>
 </ul>
 
 - 📩 How to reach me ⌯⌲ &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
