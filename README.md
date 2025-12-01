@@ -37,18 +37,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&amp;theme=tokyonight&amp;layout=compact" alt="Most Used Languages"></p> -->
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<div style="width: 100%;">
-  <p align="center">
-    <a href="https://github.com/ashik-ahammad">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&count_private=true&show_icons=true&theme=nightowl" style="width: 100%; max-width: 100%;" alt="GitHub Stats">
-    </a>
-  </p>
-</div>
-
-
-
 <br>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
