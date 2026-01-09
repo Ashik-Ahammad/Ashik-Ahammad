@@ -31,7 +31,7 @@
 
 <h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,gitlab,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" alt="Tech Stack" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" alt="Tech Stack" />
 </p>
 
 
