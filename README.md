@@ -55,9 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-ahammad&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&layout=compact&theme=tokyonight" />
-</p>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
