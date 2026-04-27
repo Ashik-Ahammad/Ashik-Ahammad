@@ -21,8 +21,79 @@
 </br>
 
 
+<!-- ================= HEADER / BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ashik Ahammad</h1>
+<h3 align="center">DevOps Engineer | Web Developer</h3>
+
+<p align="center">
+  📍 Kaliganj, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
+</p>
+
+<!-- ================= ABOUT ME ================= -->
+
+## 👨‍💻 About Me
+
+- 🚀 I’m currently exploring **Next.js & DevOps Automation**
+- 🔧 Working on **CI/CD pipelines & cloud deployment**
+- 📚 Learning **Kubernetes, Terraform & AWS**
+- 💡 Interested in **Scalable Systems & Security**
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashik-ahammad&amp;label=Profile%20views&amp;color=770677&amp;style=for-the-badge&amp;logo=star" alt="Kiran1689" style="padding-right:20px;"> </p>
+  <a href="https://linkedin.com/in/ashik-ahammad" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.leetcode.com/ashik-9" target="blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  </a>
+</p>
+
+<!-- ================= SKILLS ================= -->
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" />
+</p>
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashik-ahammad&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashik-ahammad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&theme=tokyo-night" />
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
