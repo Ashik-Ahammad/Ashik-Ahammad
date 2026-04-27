@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/ashik-ahammad" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.leetcode.com/ashik-9" target="blank">
+  <a href="https://www.leetcode.com/ashik-9" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
   </a>
 </p>
