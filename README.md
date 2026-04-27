@@ -8,7 +8,7 @@
 <h3 align="center">DevOps Engineer | Web Developer</h3>
 
 <p align="center">
-  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
+  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
 </p>
 
 <ul>
