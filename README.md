@@ -84,15 +84,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&theme=tokyo-night" />
 </p>
 
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
