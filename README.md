@@ -8,15 +8,15 @@
 <h3 align="center">DevOps Engineer | Web Developer</h3>
 
 <p align="center">
-  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
+  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
 </p>
 
 <ul>
-  <li>Currently I am exploring NEXT.JS</li>
-<li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
+  <li>🔍 Currently I am exploring NEXT.JS</li>
+  <li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
 </ul>
 
-- 📩 How to reach me ⌯⌲ &nbsp; &nbsp; &nbsp;   [![Gmail Badge](https://img.shields.io/badge/-ashik19ahammad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashik19ahammad@gmail.com)](mailto:ashik19ahammad@gmail.com)
+- 📩 How to reach me ⌯⌲ &nbsp; &nbsp; &nbsp;   
 
 </br>
 
