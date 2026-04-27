@@ -12,6 +12,7 @@
 <p align="center"> <i><strong>DevOps & Web Development Enthusiast</strong></i></p>
 
 <ul>
+  <li>Currently I am exploring NEXT.JS</li>
 <li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
 </ul>
 
