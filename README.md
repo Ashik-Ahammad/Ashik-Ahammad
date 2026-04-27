@@ -73,15 +73,6 @@
 </p>
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-ahammad&amp;theme=tokyonight&amp;layout=compact" alt="Most Used Languages"></p> -->
-
-<br>
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
-</div>
-
 <!--<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3> -->
 
 <br>
