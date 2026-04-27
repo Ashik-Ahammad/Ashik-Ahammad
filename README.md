@@ -1,15 +1,4 @@
-<!-- <h2 align="center"> <span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></span>  ٱلسَّلَامُ عَلَيْكُمْ! </h2> -->
 
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ashik+Ahammad...;&center=true&size=30">
-  </a>
-</h1> -->
-
- <!- <p align="center"> -->
-  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
-<!-- </p> -->
-<!-- <p align="center"> <i><strong>DevOps & Web Development Enthusiast</strong></i></p> -->
 
 <!-- ================= HEADER / BANNER ================= -->
 <p align="center">
