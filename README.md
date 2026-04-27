@@ -16,8 +16,6 @@
   <li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
 </ul>
 
-- 📩 How to reach me ⌯⌲ &nbsp; &nbsp; &nbsp;   
-
 </br>
 
 
