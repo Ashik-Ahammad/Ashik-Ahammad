@@ -1,15 +1,26 @@
 <!-- <h2 align="center"> <span><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></span>  ٱلسَّلَامُ عَلَيْكُمْ! </h2> -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Ashik+Ahammad...;&center=true&size=30">
   </a>
-</h1>
+</h1> -->
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <!- <p align="center"> -->
+  <!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> -->
+<!-- </p> -->
+<!-- <p align="center"> <i><strong>DevOps & Web Development Enthusiast</strong></i></p> -->
+
+<!-- ================= HEADER / BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
 </p>
-<p align="center"> <i><strong>DevOps & Web Development Enthusiast</strong></i></p>
+
+<h3 align="center">DevOps Engineer | Web Developer</h3>
+
+<p align="center">
+  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
+</p>
 
 <ul>
   <li>Currently I am exploring NEXT.JS</li>
@@ -20,18 +31,6 @@
 
 </br>
 
-
-<!-- ================= HEADER / BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ashik Ahammad</h1>
-<h3 align="center">DevOps Engineer | Web Developer</h3>
-
-<p align="center">
-  📍 Kaliganj, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
-</p>
 
 <!-- ================= ABOUT ME ================= -->
 
