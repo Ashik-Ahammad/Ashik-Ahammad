@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
+</p>
 
-<p></p>&fontSize=40&fontAlignY=35" />
 <!-- ================= HEADER / BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad<h3 align="center">DevOps Engineer | Web Developer</h3>
