@@ -2,7 +2,11 @@
 
 <!-- ================= HEADER / BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad<h3 align="center">DevOps Engineer | Web Developer</h3>
+
+<p align="center">
+  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
+</p>&fontSize=40&fontAlignY=35" />
 </p>
 
 <h3 align="center">DevOps Engineer | Web Developer</h3>
