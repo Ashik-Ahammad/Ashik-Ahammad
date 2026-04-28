@@ -39,10 +39,10 @@
 
 <!-- ================= SKILLS ================= -->
 
-## 🛠️ Skills & Tools
+## 🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" alt="Tech Stack" />
 </p>
 
 <!-- ================= STATS ================= -->
@@ -62,10 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashik-ahammad&theme=tokyo-night" />
 </p>
 
-<h2 align="center">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" alt="Tech Stack" />
-</p>
+
 
 
 <!--<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3> -->
