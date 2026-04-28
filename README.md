@@ -3,18 +3,11 @@
 </p>
 
 <!-- ================= HEADER / BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad<h3 align="center">DevOps Engineer | Web Developer</h3>
+
+<h3 align="center"><b>DevOps Engineer | Web Developer</b></h3>
 
 <p align="center">
-  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
-
-</p>
-
-<h3 align="center">DevOps Engineer | Web Developer</h3>
-
-<p align="center">
-  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 ashik19ahammad@gmail.com
+  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 <a>ashik19ahammad@gmail.com</a>
 </p>
 
 <ul>
