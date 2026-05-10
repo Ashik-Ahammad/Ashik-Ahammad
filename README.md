@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24+whoami;Ashik+Ahammad;Frontend+Developer;DevOps+Learner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
 <!-- ================= HEADER / BANNER ================= -->
