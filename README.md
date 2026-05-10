@@ -1,35 +1,56 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
-</p>
-
-
-<!-- ================= HEADER / BANNER ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24+whoami;Ashik+Ahammad;Frontend+Developer;DevOps+Enthusiast" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Ashik Ahammad
+</h1>
+
+<h3 align="center">
+  Frontend Developer • MERN Stack Developer • DevOps Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;MERN+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  📍 Savar, Dhaka, Bangladesh &nbsp; | &nbsp; 📧 <a>ashik19ahammad@gmail.com</a>
+  <a href="mailto:ashik19ahammad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Ashik-Ahammad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ashik-ahammad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<ul>
-  <li>🔍 Currently I am exploring NEXT.JS, EXPRESS.JS, MONGODB </li>
-  <li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashik-Ahammad&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</br>
+---
 
+# 👨‍💻 About Me
 
-<!-- ================= ABOUT ME ================= -->
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-## 👨‍💻 About Me
+- 🔭 Currently exploring **Next.js, Express.js & MongoDB**
+- 🚀 Learning **Kubernetes, Terraform & AWS**
+- ⚙️ Working on **CI/CD pipelines & cloud deployment**
+- 🔐 Interested in **Scalable Systems & Security**
+- 🎓 Graduate of **Daffodil International University (DIU), Dhaka**
+- 💡 Passionate about **Modern Web Technologies & DevOps**
 
-- 🚀 I’m currently exploring **Next.js & DevOps Automation**
-- 🔧 Working on **CI/CD pipelines & cloud deployment**
-- 📚 Learning **Kubernetes, Terraform & AWS**
-- 💡 Interested in **Scalable Systems & Security**
+<br/>
+<br/>
 
+---
 <!-- ================= SOCIAL LINKS ================= -->
 
 ## 🌐 Connect with Me
