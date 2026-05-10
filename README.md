@@ -2,8 +2,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ashik+Ahammad;Frontend+Developer;MERN+Stack+Developer;DevOps+Enthusiast" />
+</p>
+
+<!-- Social -->
+<p align="center">
+  <a href="https://github.com/Ashik-Ahammad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ashik-ahammad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!-- ================= HEADER / BANNER ================= -->
