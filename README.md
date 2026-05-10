@@ -79,5 +79,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=curve&amp;color=0:667eea,100:764ba2&amp;height=110&amp;section=footer&amp;text=Connect%20with%20me&amp;fontSize=26&amp;fontColor=white&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=pill&amp;color=gradient&amp;height=90&amp;section=footer&amp;text=Keep%20Coding&amp;fontSize=28&amp;fontColor=ffffff&amp;animation=scale&amp;reversal=false">
 </p>
