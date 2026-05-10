@@ -8,17 +8,18 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+Enthusiast" />
 </p>
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Ashik-Ahammad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
   <a href="https://www.linkedin.com/in/ashik-ahammad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -43,27 +44,15 @@
 <br/>
 
 ---
-<!-- ================= SOCIAL LINKS ================= -->
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ashik-ahammad" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
 
 <!-- ================= SKILLS ================= -->
 
 ## 🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes&perline=10" alt="Tech Stack" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,express&perline=10" alt="Tech Stack" />
 </p>
-
-<!-- ================= STATS ================= -->
-
-
 
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
