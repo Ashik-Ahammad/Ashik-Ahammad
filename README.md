@@ -70,10 +70,9 @@
 
 <br>
 <br>
-
 <p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-→_click_here-2d3436?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0984e3&color=2d3436" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/ASHIK_AHAMMED-📁_Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0066cc&color=00a8ff" />
   </a>
 </p>
 
