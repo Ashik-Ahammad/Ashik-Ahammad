@@ -73,10 +73,9 @@
 
 <p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/🚀_PORTFOLIO_-_LIVE_DEMO_-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a&color=00ff9d" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-→_click_here-2d3436?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0984e3&color=2d3436" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
