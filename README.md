@@ -70,12 +70,12 @@
 
 <br>
 <br>
+
 <p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/🌈_CLICK_TO_EXPLORE_🌈-MY_PORTFOLIO-f368e0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=ff9f43&color=f368e0" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/✨_VISIT_MY_PORTFOLIO_✨-CLICK_HERE-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4ecdc4&color=ff6b6b" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
