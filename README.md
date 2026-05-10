@@ -14,7 +14,7 @@
 </p>
 
 <ul>
-  <li>🔍 Currently I am exploring NEXT.JS</li>
+  <li>🔍 Currently I am exploring NEXT.JS, EXPRESS.JS, MONGODB </li>
   <li>💻 I am a graduate of Daffodil International University (DIU), Dhaka, where I completed my B.Sc. in Computer Science and Engineering.</li>
 </ul>
 
