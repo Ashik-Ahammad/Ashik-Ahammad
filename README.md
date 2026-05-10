@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Ashik Ahammad
-</h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24+whoami;Ashik+Ahammad" /> </p>
 
 <h3 align="center">
   Frontend Developer • MERN Stack Developer • DevOps Enthusiast
