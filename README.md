@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" />
+</p>
+
 <!-- ================= HEADER / BANNER ================= -->
 
 <h3 align="center"><b>DevOps Enthusiast | Web Developer</b></h3>
