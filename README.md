@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashik%20Ahammad&fontSize=40&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Ashik+Ahammad;Frontend+Developer;MERN+Stack+Developer;DevOps+Enthusiast" />
 </p>
 
 <!-- ================= HEADER / BANNER ================= -->
