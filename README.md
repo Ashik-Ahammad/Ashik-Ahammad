@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24+whoami;Ashik+Ahammad" /> </p>
 
 <h3 align="center">
-  Frontend Developer • MERN Stack Developer • DevOps Enthusiast
+  • MERN Stack Developer • DevOps Enthusiast
 </h3>
 
 <p align="center">
