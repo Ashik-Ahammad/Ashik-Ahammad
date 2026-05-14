@@ -1,7 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24;Ashik+Ahammad" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&color=39FF14&center=true&vCenter=true&lines=%24+whoami;Ashik+Ahammad" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+Enthusiast" />
