@@ -1,0 +1,9 @@
+<svg viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <rect width="900" height="190" fill="#050510"/>
+  <text x="450" y="82" text-anchor="middle" font-family="monospace" font-size="48" font-weight="700" fill="#00ffc8" letter-spacing="10">ASHIK AHAMMAD</text>
+  <text x="450" y="114" text-anchor="middle" font-family="monospace" font-size="13" fill="#00ffc8" letter-spacing="6" opacity="0.85">MERN STACK DEV  |  DEVOPS ENTHUSIAST</text>
+  <text x="450" y="152" text-anchor="middle" font-family="monospace" font-size="13" fill="#00ffc8" letter-spacing="1">
+    <tspan fill="#ff4d6d">📍</tspan> Dhaka, Bangladesh
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </text>
+</svg>
