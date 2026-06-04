@@ -1,4 +1,4 @@
-<!-- VARIANT 8: Neon Cyber Grid --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=050510&height=180&text=ASHIK%20AHAMMAD&fontSize=48&fontColor=00ffc8&fontFamily=monospace&desc=MERN%20%7C%20DevOps%20%7C%20Cloud%20%7C%20CI%2FCD&descColor=ffffff&descSize=14&descAlignY=75" width="100%" /> </p> <p align="center"> <img src="https://img.shields.io/badge/MERN-00ffc8?style=flat-square&labelColor=050510&color=050510&logoColor=00ffc8" /> <img src="https://img.shields.io/badge/Kubernetes-00ffc8?style=flat-square&labelColor=050510&color=050510" /> <img src="https://img.shields.io/badge/AWS-00ffc8?style=flat-square&labelColor=050510&color=050510" /> </p>
+<!-- VARIANT 8: Neon Cyber Grid --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=050510&height=180&text=ASHIK%20AHAMMAD&fontSize=48&fontColor=00ffc8&fontFamily=monospace&desc=MERN%20%7C%20DevOps%20%7C%20&descColor=ffffff&descSize=14&descAlignY=75" width="100%" /> </p> <p align="center">  </p>
 
 ---
 
