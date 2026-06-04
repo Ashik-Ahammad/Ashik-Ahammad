@@ -1,10 +1,10 @@
 <!-- ================= HERO SECTION ================= -->
-<h1 align="center">Hi there 👋, I'm Ashik</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=45&duration=2000&color=FF00FF&center=true&vCenter=true&width=800&lines=HELLO_WORLD;I_AM_ASHIK_AHAMMAD" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/ashik-ahammad">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9C27B0&center=true&vCenter=true&width=800&lines=const+developer+=+%22Ashik+Ahammad%22;;developer.stack+=+%22MERN%20%2B%20DevOps%22;;developer.passion+=+%22Scalable+Systems%22;" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=>>+MERN_STACK_DEV;>>+DEVOPS_ENGINEER;>>+SYSTEM_ARCHITECT" />
 </p>
 
 
