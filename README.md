@@ -54,9 +54,7 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ashik-Ahammad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Ashik-Ahammad&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
