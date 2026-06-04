@@ -1,4 +1,6 @@
-<!-- VARIANT 8: Neon Cyber Grid -->
+<p align="right">
+  📍 Dhaka, Bangladesh
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=050510&height=180&text=ASHIK%20AHAMMAD&fontSize=48&fontColor=00ffc8&fontFamily=monospace&desc=MERN%20STACK%20%7C%20DEVOPS&descColor=00ffc8&descSize=13&descAlignY=75" width="100%" />
 </p>
