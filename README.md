@@ -1,12 +1,4 @@
-<!-- ================= HERO SECTION ================= -->
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=32&duration=3000&color=F79A0F&center=true&vCenter=true&width=600&lines=root@ashik:~%23+whoami;Ashik+Ahammad" /> 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=[+]++MERN+Stack+Developer;[+]++DevOps+Enthusiast;[+]++Problem+Solver" />
-</p>
-
+<!-- VARIANT 1: Terminal Hacker --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&color=39FF14¢er=true&vCenter=true&lines=root%40github+~+%24+whoami;ASHIK+AHAMMAD" /> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1000&color=00F7FF¢er=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+Enthusiast;Cloud+%26+Security+Explorer" /> </div>
 ---
 
 # 👨‍💻 About Me
