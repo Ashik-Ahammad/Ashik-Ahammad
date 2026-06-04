@@ -1,9 +1,10 @@
 <!-- ================= HERO SECTION ================= -->
-<h1 align="center">✨ Ashik Ahammad ✨</h1>
-<h3 align="center">Building scalable systems & exploring the cloud</h3>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=700&size=32&duration=3000&color=F79A0F&center=true&vCenter=true&width=600&lines=root@ashik:~%23+whoami;Ashik+Ahammad" /> 
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=2500&color=4285F4&center=true&vCenter=true&lines=MERN+Stack+Developer;AWS+%26+Terraform+Learner;DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=[+]++MERN+Stack+Developer;[+]++DevOps+Enthusiast;[+]++Problem+Solver" />
 </p>
 
 ---
