@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ashik-Ahammad/Ashik-Ahammad/main/banner.svg" width="100%" />
 </p>
-
 ---
 
 # 👨‍💻 About Me
