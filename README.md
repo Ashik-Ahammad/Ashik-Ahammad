@@ -51,6 +51,11 @@
   <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,mysql,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,express&perline=11" alt="Tech Stack" />
 </p>
 
+## 📈 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ashik-Ahammad&show_icons=true&theme=dark" />
+</p>
+
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
