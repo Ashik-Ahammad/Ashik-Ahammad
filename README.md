@@ -1,5 +1,4 @@
-<!-- VARIANT 1: Terminal Hacker --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&color=39FF14¢er=true&vCenter=true&lines=root%40github+~+%24+whoami;ASHIK+AHAMMAD" /> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1000&color=00F7FF¢er=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+Enthusiast;Cloud+%26+Security+Explorer" /> </div>
----
+<!-- VARIANT 4: Synthwave Retro --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7f00ff,100:ff1a80&height=200§ion=header&text=ASHIK+AHAMMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=MERN+Stack+%7C+DevOps+%7C+Cloud&descAlignY=82&descSize=14&descColor=b87fff" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&pause=1000&color=FF1A80¢er=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Next.js+%7C+Kubernetes+%7C+Terraform" /> </p>
 
 # 👨‍💻 About Me
 
