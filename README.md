@@ -54,13 +54,9 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashik-Ahammad&show_icons=true&theme=radical&hide_border=true" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ashik-Ahammad&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Ahammad&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashik-Ahammad&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+  />
 </p>
 
 
