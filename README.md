@@ -1,5 +1,4 @@
 <!-- VARIANT 4: Synthwave Retro --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7f00ff,100:ff1a80&height=200§ion=header&text=ASHIK+AHAMMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=MERN+Stack+%7C+DevOps+%7C+Cloud&descAlignY=82&descSize=14&descColor=b87fff" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&pause=1000&color=FF1A80¢er=true&vCenter=true&width=750&lines=MERN+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Next.js+%7C+Kubernetes+%7C+Terraform" /> </p>
-
 # 👨‍💻 About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
