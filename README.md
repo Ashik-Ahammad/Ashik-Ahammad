@@ -57,9 +57,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshikAhammad&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshikAhammad&theme=github_dark" />
 </p>
-
 
 
 <!--<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3> -->
