@@ -20,15 +20,17 @@
 
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  
+  &nbsp;&nbsp;
+
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" height="50" />
   </a>
 </p>
 
