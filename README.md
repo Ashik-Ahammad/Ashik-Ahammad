@@ -46,18 +46,17 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Ahammad&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Ahammad&theme=tokyonight" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Ahammad&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Ahammad&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Ahammad&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Ahammad&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Ashik-Ahammad&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=Ashik-Ahammad&theme=radical" />
 </p>
-
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
