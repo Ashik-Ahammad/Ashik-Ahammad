@@ -46,7 +46,12 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Ahammad&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Ahammad&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Ahammad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Ahammad&theme=tokyonight" />
 </p>
 
 <p align="center">
