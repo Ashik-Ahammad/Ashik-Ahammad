@@ -20,15 +20,15 @@
 
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
