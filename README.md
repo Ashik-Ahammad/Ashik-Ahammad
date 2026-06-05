@@ -18,19 +18,20 @@
 
 ## 🌐 Connect with Me
 
+
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" />
   </a>
-  &nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" />
   </a>
-  &nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="45" />
   </a>
 </p>
 
