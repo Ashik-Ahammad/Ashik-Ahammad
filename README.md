@@ -19,15 +19,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/765637952557678655">
-    <img src="https://skillicons.dev/icons?i=discord" height="60" alt="Discord"/>
-  </a>
+  <a href="mailto:ashik19ahammad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashik-ahammad/"><img src="https://skillicons.dev/icons?i=linkedin" width="60"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/765637952557678655"><img src="https://skillicons.dev/icons?i=discord" width="60"></a>
 </p>
 
 <br/>
