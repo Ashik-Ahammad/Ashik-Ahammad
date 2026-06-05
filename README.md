@@ -20,18 +20,17 @@
 
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1d-9099-1f3cb1e1aadb.gif" width="70">
+    <img src="https://user-images.githubusercontent.com/74038190/212750337-6c7e6f1d-0d6d-4b4f-82b1-7e6f8d6e6b39.gif" width="80" />
   </a>
 
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://user-images.githubusercontent.com/74038190/216655848-e7b0a2d9-9f8c-45d8-8d8e-7d2f2d4d7f6d.gif" width="70">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" />
   </a>
 
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://user-images.githubusercontent.com/74038190/216656975-9fdf4a34-5c4e-49f7-8b65-98f1e9a7f9b6.gif" width="70">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" />
   </a>
 </p>
-
 
 <br/>
 
