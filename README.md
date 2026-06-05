@@ -18,20 +18,17 @@
 
 ## 🌐 Connect with Me
 
-
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hN2F4eDFhMGN4aWQwYTZkZmM3ZWU5NmZ0Y2g2YjFpbzR1dG9jYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xkQpyMlnBkpB9C/giphy.gif" width="80" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1NmN0NXBhY2Y5a2Y0N2M2OW9jbm1jaTh4M3F5d3R4N3E3d2QxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="45" />
+    <img src="https://cdn3.emoji.gg/emojis/Discord.gif" width="80" alt="Discord"/>
   </a>
 </p>
 
