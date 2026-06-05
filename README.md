@@ -20,15 +20,15 @@
 
 <p align="center">
   <a href="mailto:ashik19ahammad@gmail.com">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hN2F4eDFhMGN4aWQwYTZkZmM3ZWU5NmZ0Y2g2YjFpbzR1dG9jYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xkQpyMlnBkpB9C/giphy.gif" width="80" alt="Gmail"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1d-9099-1f3cb1e1aadb.gif" width="70">
   </a>
 
   <a href="https://www.linkedin.com/in/ashik-ahammad/">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1NmN0NXBhY2Y5a2Y0N2M2OW9jbm1jaTh4M3F5d3R4N3E3d2QxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" alt="LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216655848-e7b0a2d9-9f8c-45d8-8d8e-7d2f2d4d7f6d.gif" width="70">
   </a>
 
   <a href="https://discord.com/users/765637952557678655">
-    <img src="https://cdn3.emoji.gg/emojis/Discord.gif" width="80" alt="Discord"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216656975-9fdf4a34-5c4e-49f7-8b65-98f1e9a7f9b6.gif" width="70">
   </a>
 </p>
 
