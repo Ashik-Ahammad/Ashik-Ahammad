@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
-    <img width="68%" alt="Portfolio" src="https://img.shields.io/badge/🌌_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4" />
+    <img width="48%" alt="Portfolio" src="https://img.shields.io/badge/🌌_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4" />
   </a>
 </p>
 <p align="center">
