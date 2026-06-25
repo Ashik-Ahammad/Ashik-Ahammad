@@ -7,8 +7,8 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🔭 Currently exploring **Next.js, Express.js & MongoDB**
-- 🚀 Learning **Kubernetes, Terraform & AWS**
+- 🔭 Currently exploring **TypeScript, Next.js, Express.js & MongoDB**
+- 🚀 Learning **Docker, Kubernetes, Terraform & AWS**
 - ⚙️ Working on **CI/CD pipelines & cloud deployment**
 - 🔐 Interested in **Scalable Systems & Security**
 - 🎓 Graduate of **Daffodil International University (DIU), Dhaka**
