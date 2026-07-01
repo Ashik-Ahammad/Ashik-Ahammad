@@ -7,12 +7,11 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🔭 Currently exploring **TypeScript, Redux, Next.js, Express.js & MongoDB**
-- 🚀 Learning **Docker, Kubernetes, Terraform & AWS**
-- ⚙️ Working on **CI/CD pipelines & cloud deployment**
-- 🔐 Interested in **Scalable Systems & Security**
-- 🎓 Graduate of **Daffodil International University (DIU), Dhaka**
-- 💡 Passionate about **Modern Web Technologies & DevOps**
+- 💻 Building full-stack web applications with **React.js, Next.js, Node.js, Express.js & MongoDB**
+- 🌱 Currently improving my skills in **TypeScript, Redux Toolkit, and modern React development**
+- ⚙️ Exploring **Docker, CI/CD, AWS, and cloud deployment** to build and deploy applications efficiently
+- 🧩 Enjoy building responsive, user-friendly applications and solving real development problems
+- 🎓 Computer Science Graduate from **Daffodil International University (DIU), Dhaka**
 
 <br/>
 
