@@ -2,6 +2,133 @@
   <img src="https://raw.githubusercontent.com/Ashik-Ahammad/Ashik-Ahammad/main/banner.svg" width="100%" />
 </p>
 
+<table>
+<tr>
+<td valign="middle">
+
+```
+                           .......                             .......                          
+                     .:...                                             .....                    
+                ....:.                        ::: .:.   .                   .....               
+            ....                           .:           .                        ....           
+         ::-.............                 ..                                         ...        
+      ................- :               ::....            .     .                       ...     
+   .-.:                .             :..                   .:   :=                         ...  
+ :: : :                           -::                        .:   -                           ::
+.   -.-.................        --=.                           :  .:                            
+    -.-................ -       --.                                -                            
+                        .       ::                                 :.                           
+                      ..:.      ::         ..         ....          :                           
+                      ....       -      .:-:::.      .           : ..                           
+--:---:--:                       :     :==-:.        .--:..      . :                  ........  
+---:-:-:-:                        :   .=-:-.-::      --:::-     .  :                          - 
+..........                     .  :                              . :.                .......... 
+                              .:=::                              .  :                           
+                               :--:           .::  :::          :   :                           
+ . ::-:::-.                    :  .:          ..                :  :                            
+.--::.:=:=:                    .. --           ..  .           :   :                            
+....... ...                     - = :        --:........          :.                            
+                                    :.      .   ....              :                             
+....::........                        :.                         ::                             
+  .-:.-.::-..:                          :.                                                      
+                                       :..   ..               .                                 
+                                       -+-                    =:                                
+                                       -  .. .                ::.:                              
+                                      :-:  ..:-             :: :  :.                            
+                                    ::. -:                .:  :     :.                          
+                               .....  :  :=.            .:   :.        ....                     
+                           ....        .  .=:         ::    :.                                  
+                      .....            :  .:==     .--.    ..                                   
+                .....                  : :  . :: :=:  .:   :                                    
+            :=.                        :..      =-      : :                                     
+           : -.                        :=.      .       :-                                      
+          .  -.                        :..             .=                                       
+ ..:.    .:  -.                         ::             -.                                       
+....     :   ::                         ::            -:                                        
+        :    ::                         :.           :-                                         
+       :      -                         :            =                                          
+      ..                                 .          :.                                          
+      :                                  :          :                                           
+     ..                                  :.        :                                            
+     :                                   .:       ..                                            
+```
+
+</td>
+<td valign="middle">
+
+```
+ashik@github
+-------------------------------------------------------------------
+Name: ................... Ashik Ahammad
+Role: ................... MERN Stack Developer
+OS: ..................... Bangladesh (Dhaka, UTC+06:00)
+Host: ................... Daffodil International University (DIU)
+Stack: .................. Next.js / React.js / Express.js / MongoDB
+
+Languages.Programming: .. JavaScript, TypeScript, C, HTML, CSS
+Currently Exploring: .... Next.js, Express.js & MongoDB (deeper)
+Currently Learning: ..... Kubernetes, Terraform, AWS, CI/CD
+
+-------------------------------------------------------------------
+Contact.Email: .......... ashik19ahammad@gmail.com
+Contact.LinkedIn: ....... linkedin.com/in/ashik-ahammad
+Contact.Facebook: ....... facebook.com/ashik.ahammad.19
+Contact.Discord: ........ discord.com/users/765637952557678655
+Contact.Portfolio: ...... ashik-ahammad-portfolio.vercel.app
+
+-------------------------------------------------------------------
+Pinned.Repos: ........... eduqueue-client, as-fragrance-e-perfumes,
+                          wayfarer-travel, DigiTools
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,docker,aws,kubernetes,terraform,vscode&perline=11" />
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashik-Ahammad&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Ahammad&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=Ashik-Ahammad&theme=radical&hide_border=true" width="70%" />
+
+</div>
+
+<br>
+
+## 🔭 About Me
+
+- 🎓 Graduate of **Daffodil International University (DIU)**, Dhaka, Bangladesh
+- 💻 Building scalable web apps, REST APIs, and modern deployment pipelines
+- 🚀 Currently exploring **Next.js, Express.js & MongoDB** in more depth
+- ☁️ Learning **Kubernetes, Terraform & AWS**
+- ⚙️ Working on **CI/CD pipelines & cloud deployment**
+- 🔐 Interested in **scalable systems & security**
+
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4)](https://ashik-ahammad-portfolio.vercel.app/)
+
+<a href="mailto:ashik19ahammad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/ashik-ahammad/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://discord.com/users/765637952557678655"><img src="https://skillicons.dev/icons?i=discord" /></a>
+
+</div>
+
 
 ## 🔭 About Me
 
