@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/Ashik-Ahammad/Ashik-Ahammad/main/banner.svg" width="100%" />
 </p>
 
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/82080802?v=4" width="140" style="border-radius:50%;" />
 
 # Ashik Ahammad
 ### MERN Stack Developer • Next.js • React.js • Express.js • MongoDB
