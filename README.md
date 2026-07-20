@@ -2,49 +2,6 @@
   <img src="https://raw.githubusercontent.com/Ashik-Ahammad/Ashik-Ahammad/main/banner.svg" width="100%" />
 </p>
 
-## 🔭 About Me
-
-- 🎓 Graduate of **Daffodil International University (DIU)**, Dhaka, Bangladesh
-- 💻 Building scalable web apps, REST APIs, and modern deployment pipelines
-- 🚀 Currently exploring **Next.js, Express.js & MongoDB** in more depth
-- ☁️ Learning **Kubernetes, Terraform & AWS**
-- ⚙️ Working on **CI/CD pipelines & cloud deployment**
-- 🔐 Interested in **scalable systems & security**
-
-<br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4)](https://ashik-ahammad-portfolio.vercel.app/)
-
-<a href="mailto:ashik19ahammad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/ashik-ahammad/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://discord.com/users/765637952557678655"><img src="https://skillicons.dev/icons?i=discord" /></a>
-
-</div>
-
-
-## 🔭 About Me
-
-- 🎓 Graduate of **Daffodil International University (DIU)**, Dhaka, Bangladesh
-- 💻 Building scalable web apps, REST APIs, and modern deployment pipelines
-- 🚀 Currently exploring **Next.js, Express.js & MongoDB** in more depth
-- ☁️ Learning **Kubernetes, Terraform & AWS**
-- ⚙️ Working on **CI/CD pipelines & cloud deployment**
-- 🔐 Interested in **scalable systems & security**
-
-<br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4)](https://ashik-ahammad-portfolio.vercel.app/)
-
-<a href="mailto:ashik19ahammad@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/ashik-ahammad/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://discord.com/users/765637952557678655"><img src="https://skillicons.dev/icons?i=discord" /></a>
-
-</div>
-
 # 👨‍💻 About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
