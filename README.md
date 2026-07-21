@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 💻 Building full-stack web applications with **Next.js, React.js, Node.js, Express.js & MongoDB**
-- 🌱 Currently improving my skills in **TypeScript, Redux Toolkit, and modern React development**
+- 🌱 Currently improving my skills in **TypeScript, PostgreSQL**
 - ⚙️ Exploring **Docker, CI/CD, AWS, and cloud deployment** to build and deploy applications efficiently
 - 🎓 Computer Science Graduate from **Daffodil International University (DIU), Dhaka**
 
