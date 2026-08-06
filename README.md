@@ -36,14 +36,14 @@
 
 ## 📈 Github Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Ahammad&theme=radical" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Ahammad&theme=radical" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Ahammad&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="98%" src="https://streak-stats.demolab.com?user=Ashik-Ahammad&theme=radical" />
