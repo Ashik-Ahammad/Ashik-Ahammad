@@ -54,9 +54,9 @@
 <!-- ## 📈 Contribution Graph -->
 
 
- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashik-Ahammad&theme=tokyo-night" />
-</p>
+  <!--<p align="center">-->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashik-Ahammad&theme=tokyo-night" /> -->
+<!-- </p>  -->
 
 
 <!--<h3 align="center"><a target="_blank" href="https://ashik-ahammad.github.io/portfolio/">Feel free to browse my portfolio to understand my professional background!</a> </h3> -->
@@ -64,11 +64,11 @@
 <br>
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
     <img width="48%" alt="Portfolio" src="https://img.shields.io/badge/🌌_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4" />
   </a>
-</p> -->
+</p> 
 <p align="center">
   <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
