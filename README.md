@@ -31,7 +31,7 @@
 ## 🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,java,typescript,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,postgresql,prisma,express&perline=12" alt="Tech Stack" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,java,js,typescript,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,postgresql,prisma,express&perline=12" alt="Tech Stack" />
 </p>
 
 ## 📈 Github Stats
