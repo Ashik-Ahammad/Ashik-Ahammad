@@ -31,7 +31,7 @@
 ## 🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,python,typescript,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,postgresql,prisma,express&perline=12" alt="Tech Stack" />
+  <img width="500px" src="https://skillicons.dev/icons?i=cpp,js,java,typescript,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,postgresql,prisma,express&perline=12" alt="Tech Stack" />
 </p>
 
 ## 📈 Github Stats
@@ -64,11 +64,11 @@
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://ashik-ahammad-portfolio.vercel.app/">
     <img width="48%" alt="Portfolio" src="https://img.shields.io/badge/🌌_VISIT_MY_PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06B6D4" />
   </a>
-</p>
+</p> -->
 <p align="center">
   <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
 </p>
