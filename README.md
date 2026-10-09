@@ -34,6 +34,8 @@
   <img width="500px" src="https://skillicons.dev/icons?i=cpp,java,js,typescript,html,css,react,nextjs,git,github,nodejs,linux,bash,aws,docker,githubactions,jenkins,ansible,terraform,kubernetes,mongodb,postgresql,prisma,express&perline=12" alt="Tech Stack" />
 </p>
 
+<!-- ================= CODING PROFILES ================= --> ## 💻 Coding Profiles <p align="center"> <a href="https://leetcode.com/u/boogeyman-313/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a>&nbsp; <a href="https://codeforces.com/profile/Booogeyman" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/> </a>&nbsp; <a href="https://www.hackerrank.com/profile/boogeyman_313" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a>&nbsp; <a href="https://www.codechef.com/users/boogeyman_313" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a> </p> <!-- ================= BLOG ================= --> ## ✍️ Blog & Articles <p align="center"> <a href="https://medium.com/@ashik.ahammad.cs" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/> </a> </p>
+
 ## 📈 Github Stats
 
 <!-- <p align="center">
