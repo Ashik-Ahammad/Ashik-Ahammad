@@ -35,34 +35,12 @@
 </p>
 
 
-<!-- ================= CODING PROFILES ================= -->
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/boogeyman-313/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="48" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Booogeyman">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" alt="Codeforces"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/boogeyman_313">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="48" alt="HackerRank"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/boogeyman_313">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="48" alt="CodeChef"/>
-  </a>
-</p>
-
-<!-- ================= BLOG ================= -->
-
-## ✍️ Blog & Articles
-
-<p align="center">
-  <a href="https://medium.com/@ashik.ahammad.cs">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="48" alt="Medium"/>
-  </a>
-</p>
+<!-- ================= CODING PROFILES ================= --> 
+## 💻 Coding Profiles 
+<p align="center"> <a href="https://leetcode.com/u/boogeyman-313/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://codeforces.com/profile/Booogeyman"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> <a href="https://www.hackerrank.com/profile/boogeyman_313"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> <a href="https://www.codechef.com/users/boogeyman_313"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/> </a> </p> 
+<!-- ================= BLOG ================= --> 
+## ✍️ Blog & Articles 
+<p align="center"> <a href="https://medium.com/@ashik.ahammad.cs"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium Blog"/> </a> </p>
 
 
 ## 📈 Github Stats
