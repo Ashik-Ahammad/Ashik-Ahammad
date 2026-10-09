@@ -38,7 +38,9 @@
 <!-- ================= CODING PROFILES ================= --> 
 ## 💻 Coding Profiles 
 <p align="center"> <a href="https://leetcode.com/u/boogeyman-313/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://codeforces.com/profile/Booogeyman"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> <a href="https://www.hackerrank.com/profile/boogeyman_313"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> <a href="https://www.codechef.com/users/boogeyman_313"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/> </a> </p> 
+
 <!-- ================= BLOG ================= --> 
+
 ## ✍️ Blog & Articles 
 <p align="center"> <a href="https://medium.com/@ashik.ahammad.cs"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium Blog"/> </a> </p>
 
